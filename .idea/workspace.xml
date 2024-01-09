@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="274a9471-e397-4917-b11b-d28180b5720a" name="Changes" comment="" />
+    <list default="true" id="274a9471-e397-4917-b11b-d28180b5720a" name="Changes" comment="create class Initialization and PrintSchemes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +39,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bogda\IdeaProjects\Java_lab6" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bogda\IdeaProjects\Java_lab6" />
       <recent name="C:\Users\bogda\IdeaProjects\Java_lab6\src" />
@@ -136,6 +139,23 @@
       <option name="presentableId" value="Default" />
       <updated>1704753207530</updated>
     </task>
+    <task id="LOCAL-00001" summary="create project">
+      <option name="closed" value="true" />
+      <created>1704758312350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704758312350</updated>
+    </task>
+    <task id="LOCAL-00002" summary="create class Initialization and PrintSchemes">
+      <option name="closed" value="true" />
+      <created>1704759482670</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704759482670</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,5 +168,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create project" />
+    <MESSAGE value="create class Initialization and PrintSchemes" />
+    <option name="LAST_COMMIT_MESSAGE" value="create class Initialization and PrintSchemes" />
   </component>
 </project>
